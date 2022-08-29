@@ -7,3 +7,5 @@ Currently there are two implemented users called `homelander` (cannot access dat
 Username and password are both same for authentication API.
 
 Made with .NET 6. Run in favorite NET supported IDE or by using `dotnet run` command from the root of the project.
+
+Swagger with API doc should be running on https://localhost:7010
